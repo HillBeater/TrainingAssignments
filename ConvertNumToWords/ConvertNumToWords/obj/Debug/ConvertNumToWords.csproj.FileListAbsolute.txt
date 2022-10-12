@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\ConvertNumToWords\ConvertNumToWords\bin\Debug\ConvertNumToWords.exe.config
+C:\Users\MeetApp\source\repos\ConvertNumToWords\ConvertNumToWords\bin\Debug\ConvertNumToWords.exe
+C:\Users\MeetApp\source\repos\ConvertNumToWords\ConvertNumToWords\bin\Debug\ConvertNumToWords.pdb
+C:\Users\MeetApp\source\repos\ConvertNumToWords\ConvertNumToWords\obj\Debug\ConvertNumToWords.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\ConvertNumToWords\ConvertNumToWords\obj\Debug\ConvertNumToWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\ConvertNumToWords\ConvertNumToWords\obj\Debug\ConvertNumToWords.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\ConvertNumToWords\ConvertNumToWords\obj\Debug\ConvertNumToWords.exe
+C:\Users\MeetApp\source\repos\ConvertNumToWords\ConvertNumToWords\obj\Debug\ConvertNumToWords.pdb
