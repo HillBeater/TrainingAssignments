@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\TestStick\TestStick\bin\Debug\TestStick.exe.config
+C:\Users\MeetApp\source\repos\TestStick\TestStick\bin\Debug\TestStick.exe
+C:\Users\MeetApp\source\repos\TestStick\TestStick\bin\Debug\TestStick.pdb
+C:\Users\MeetApp\source\repos\TestStick\TestStick\obj\Debug\TestStick.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\TestStick\TestStick\obj\Debug\TestStick.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\TestStick\TestStick\obj\Debug\TestStick.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\TestStick\TestStick\obj\Debug\TestStick.exe
+C:\Users\MeetApp\source\repos\TestStick\TestStick\obj\Debug\TestStick.pdb

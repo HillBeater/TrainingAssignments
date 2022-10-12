@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\MeetApp\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\MeetApp\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\MeetApp\source\repos\Assignment1\Assignment1\obj\Debug\ReverseString.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\Assignment1\Assignment1\obj\Debug\ReverseString.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\Assignment1\Assignment1\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\MeetApp\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
