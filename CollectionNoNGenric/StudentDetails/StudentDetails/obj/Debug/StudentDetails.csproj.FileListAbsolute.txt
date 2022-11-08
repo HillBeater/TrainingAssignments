@@ -1,0 +1,8 @@
+D:\git\TrainingAssignments\StudentDetails\StudentDetails\bin\Debug\Assignment new.exe.config
+D:\git\TrainingAssignments\StudentDetails\StudentDetails\bin\Debug\Assignment new.exe
+D:\git\TrainingAssignments\StudentDetails\StudentDetails\bin\Debug\Assignment new.pdb
+D:\git\TrainingAssignments\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.AssemblyReference.cache
+D:\git\TrainingAssignments\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.SuggestedBindingRedirects.cache
+D:\git\TrainingAssignments\StudentDetails\StudentDetails\obj\Debug\StudentDetails.csproj.CoreCompileInputs.cache
+D:\git\TrainingAssignments\StudentDetails\StudentDetails\obj\Debug\Assignment new.exe
+D:\git\TrainingAssignments\StudentDetails\StudentDetails\obj\Debug\Assignment new.pdb
