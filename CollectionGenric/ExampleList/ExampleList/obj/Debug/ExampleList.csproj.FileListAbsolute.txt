@@ -1,0 +1,12 @@
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\obj\Debug\ExampleList.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\obj\Debug\ExampleList.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\obj\Debug\ExampleList.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\bin\Debug\ExampleList.exe.config
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\bin\Debug\ExampleList.exe
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\bin\Debug\ExampleList.pdb
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\bin\Debug\DotLiquid.dll
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\bin\Debug\DotLiquid.xml
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\obj\Debug\ExampleList.csproj.CopyComplete
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\obj\Debug\ExampleList.exe
+C:\Users\MeetApp\source\repos\ExampleList\ExampleList\obj\Debug\ExampleList.pdb
