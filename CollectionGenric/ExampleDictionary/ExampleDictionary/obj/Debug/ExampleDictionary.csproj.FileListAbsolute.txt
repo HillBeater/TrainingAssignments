@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\ExampleDictionary\ExampleDictionary\bin\Debug\ExampleDictionary.exe.config
+C:\Users\MeetApp\source\repos\ExampleDictionary\ExampleDictionary\bin\Debug\ExampleDictionary.exe
+C:\Users\MeetApp\source\repos\ExampleDictionary\ExampleDictionary\bin\Debug\ExampleDictionary.pdb
+C:\Users\MeetApp\source\repos\ExampleDictionary\ExampleDictionary\obj\Debug\ExampleDictionary.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\ExampleDictionary\ExampleDictionary\obj\Debug\ExampleDictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\ExampleDictionary\ExampleDictionary\obj\Debug\ExampleDictionary.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\ExampleDictionary\ExampleDictionary\obj\Debug\ExampleDictionary.exe
+C:\Users\MeetApp\source\repos\ExampleDictionary\ExampleDictionary\obj\Debug\ExampleDictionary.pdb
