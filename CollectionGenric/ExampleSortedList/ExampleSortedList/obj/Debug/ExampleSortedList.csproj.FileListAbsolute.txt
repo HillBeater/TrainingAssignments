@@ -1,0 +1,8 @@
+C:\Users\MeetApp\source\repos\ExampleSortedList\ExampleSortedList\bin\Debug\ExampleSortedList.exe.config
+C:\Users\MeetApp\source\repos\ExampleSortedList\ExampleSortedList\bin\Debug\ExampleSortedList.exe
+C:\Users\MeetApp\source\repos\ExampleSortedList\ExampleSortedList\bin\Debug\ExampleSortedList.pdb
+C:\Users\MeetApp\source\repos\ExampleSortedList\ExampleSortedList\obj\Debug\ExampleSortedList.csproj.AssemblyReference.cache
+C:\Users\MeetApp\source\repos\ExampleSortedList\ExampleSortedList\obj\Debug\ExampleSortedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\MeetApp\source\repos\ExampleSortedList\ExampleSortedList\obj\Debug\ExampleSortedList.csproj.CoreCompileInputs.cache
+C:\Users\MeetApp\source\repos\ExampleSortedList\ExampleSortedList\obj\Debug\ExampleSortedList.exe
+C:\Users\MeetApp\source\repos\ExampleSortedList\ExampleSortedList\obj\Debug\ExampleSortedList.pdb
