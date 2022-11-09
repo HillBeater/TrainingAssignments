@@ -123,6 +123,10 @@ namespace ExampleSortedList
                     Console.WriteLine("Numbers of Elements in the List: " + StateName.Count);
                     Console.WriteLine();
                 }
+                else
+                {
+                    Console.WriteLine("Wrong Choices");
+                }
             }
 
            
